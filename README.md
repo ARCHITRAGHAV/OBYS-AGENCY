@@ -22,5 +22,3 @@ I have created an **OBYS AGENCY CLONE**, that involves creating a visually appea
 - **Shery Js** - To create advanced visual effects, enhancing the interactivity and aesthetic appeal of the site.
 
 - **JavaScipt**, **CSS** and **HTML5**
-
-> 🙂 Hope, you like it 🙂.
