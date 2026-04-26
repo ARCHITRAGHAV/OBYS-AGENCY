@@ -1,6 +1,6 @@
 # OBYS AGENCY CLONE
 
-![OBYS AGENCY](/Assets/OBYS%20AGENCY.png)
+![OBYS AGENCY](./Assets/Obys_Agency.png)
 
 [**GITHUB PAGE**](https://architraghav.github.io/OBYS-AGENCY/)
 
