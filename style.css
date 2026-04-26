@@ -340,7 +340,7 @@ body {
     position: relative;
     left: 29%;
     top: 20vh;
-    background-image: url("/Assets/Reel\ Bg.png");
+    background-image: url("./Assets/Reel\ Bg.png");
     background-size: cover;
     background-position: center;
 }
